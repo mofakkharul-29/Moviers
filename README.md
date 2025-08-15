@@ -16,6 +16,7 @@ Movi-ers is a mobile application built for movie lovers. It serves as a portal f
 
 ## 📸 Screenshots
 N/A
+Check on YouTube: https://youtu.be/HLFdRC9ZF4M
 
 ## 🚀 Getting Started
 
